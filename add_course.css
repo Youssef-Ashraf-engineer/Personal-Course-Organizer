@@ -30,3 +30,4 @@ input,textarea{padding:10px;border:1px solid #CBD5E0;border-radius:5px}
 button{background:#2B4C7E;color:#fff;padding:10px;border:none;border-radius:5px;cursor:pointer}
 button:hover{background:#1A365D}
 footer{background:#1A365D;color:#fff;text-align:center;padding:15px;margin-top:20px}
+@media(max-width:600px){nav a{display:block;margin:10px 0}}
